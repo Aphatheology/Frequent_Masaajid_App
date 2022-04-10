@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Frequent_Masaajid_App/static/css/main.22d255ff.css",
+    "main.js": "/Frequent_Masaajid_App/static/js/main.366920c5.js",
+    "index.html": "/Frequent_Masaajid_App/index.html",
+    "main.22d255ff.css.map": "/Frequent_Masaajid_App/static/css/main.22d255ff.css.map",
+    "main.366920c5.js.map": "/Frequent_Masaajid_App/static/js/main.366920c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22d255ff.css",
+    "static/js/main.366920c5.js"
+  ]
+}
